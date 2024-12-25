@@ -1,4 +1,4 @@
 # Myfirst-repository
 This is my first repository
 <br>
-Author-Vanitha Gorja
+Author-Vanitha Gorja (vinni)
